@@ -14,7 +14,7 @@ module.exports = {
         "<b>Order Details: "+JSON.stringify(Order)+"</b>";
         var mailOptions = {
             from: 'alterbliss.com@gmail.com', // sender address
-            to: '', // list of receivers separated by comma
+            to: UserDetails.Email, // list of receivers separated by comma
             subject: 'Email Example', // Subject line
             //text: text //, // plaintext body
             html: html // You can choose to send an HTML body instead
