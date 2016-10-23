@@ -5,15 +5,15 @@ module.exports = {
         var transporter = nodemailer.createTransport({
             service: 'Gmail',
             auth: {
-                user: '', // Your email id
-                pass: '' // Your password
+                user: 'alterbliss.com@gmail.com', // Your email id
+                pass: 'rajatisking2016' // Your password
             }
         });
 
         var html = "<b>User Details :"+JSON.stringify(UserDetails)+"</b><br/><br/><br/>"+
         "<b>Order Details: "+JSON.stringify(Order)+"</b>";
         var mailOptions = {
-            from: 'rajatmig29@gmail.com', // sender address
+            from: 'alterbliss.com@gmail.com', // sender address
             to: '', // list of receivers separated by comma
             subject: 'Email Example', // Subject line
             //text: text //, // plaintext body
