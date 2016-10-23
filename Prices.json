@@ -1,0 +1,518 @@
+[
+    {
+        "Id": 1,
+        "Type": "Blouse",
+        "Items": [
+            {
+                "id": 1,
+                "Type": "V-Neck",
+                "Price": 330
+            },
+            {
+                "id": 2,
+                "Type": "U neck",
+                "Price": 330
+            },
+            {
+                "id": 3,
+                "Type": "Square neck",
+                "Price": 330
+            },
+            {
+                "id": 1,
+                "Type": "Rectangle neck",
+                "Price": 330
+            },
+            {
+                "Type": "Diamond Neck",
+                "Price": 330
+            },
+            {
+                "Type": "Scalloped neck",
+                "Price": 550
+            },
+            {
+                "Type": "Horseshoe neck",
+                "Price": 330
+            },
+            {
+                "Type": "Square with criss-cross neck",
+                "Price": 550
+            },
+            {
+                "Type": "Crew neck",
+                "id": 1,
+                "Price": 330
+            },
+            {
+                "Type": "Boat neck",
+                "id": 1,
+                "Price": 330
+            },
+            {
+                "Type": "Spaghetti - Square neck",
+                "id": 1,
+                "Price": 330
+            },
+            {
+                "Type": "Spaghetti - U neck",
+                "id": 1,
+                "Price": 330
+            },
+            {
+                "Type": "Nehru Collar",
+                "id": 1,
+                "Price": 599
+            },
+            {
+                "Type": "Collar with Deep V-neck",
+                "id": 1,
+                "Price": 599
+            },
+            {
+                "Type": "Classic Shirt Collar",
+                "id": 1,
+                "Price": 599
+            },
+            {
+                "Type": "Peter Pan Collar",
+                "id": 1,
+                "Price": 599
+            },
+            {
+                "Type": "High Collar",
+                "id": 1,
+                "Price": 599
+            },
+            {
+                "Type": "Stand-up Collar with Sweetheart neck",
+                "id": 1,
+                "Price": 599
+            },
+            {
+                "Type": "Deep Sweetheart neck",
+                "id": 1,
+                "Price": 330
+            },
+            {
+                "Type": "High collar halter neck",
+                "id": 1,
+                "Price": 550
+            },
+            {
+                "Type": "Halter neck",
+                "id": 1,
+                "Price": 330
+            },
+            {
+                "Type": "Round with V-neck",
+                "id": 1,
+                "Price": 330
+            }
+        ],
+        "Addons": [
+            {
+                "Type": "Pre-washed Cotton",
+                "Price": 75
+            },
+            {
+                "Type": "Front with Hooks",
+                "Price": 0
+            },
+             {
+                "Type": "Back with Hooks",
+                "Price": 0
+            },
+            {
+                "Type": "Side with Zip",
+                "Price": 25
+            },
+            {
+                "Type": "Tassels with Neck Ties",
+                "Price": 30
+            },
+            {
+                "Type": "Binding on Neckline and Sleeves",
+                "Price": 40
+            },
+            {
+                "Type": "Saree Falls & Pico",
+                "Price": 90
+            },
+            {
+                "Type": "Hemming for Saree",
+                "Price": 25
+            },
+            {
+                "Type": "Prince Cut",
+                "Price": 150
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Type": "Kurta",
+        "Items": [
+            {
+                "id": 1,
+                "Type": "V-Neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "U neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Square neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Rectangle neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Diamond Neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Scalloped neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Horseshoe neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Square with criss-cross neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Crew neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Boat neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Spaghetti - Square neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Spaghetti - U neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Nehru Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Collar with Deep V-neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Classic Shirt Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Peter Pan Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "High Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Stand-up Collar with Sweetheart neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Deep Sweetheart neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "High collar halter neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Halter neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Round with V-neck",
+                "Price": 299
+            }
+        ],
+        "Addons": [
+            {
+                "Type": "Pre-washed Cotton",
+                "Price": 150
+            },
+            {
+                "Type": "Back with Zip",
+                "Price": 299
+            },
+            {
+                "Type": "Quarter Length",
+                "Price": 0
+            },
+            {
+                "Type": "Half Length",
+                "Price": 0
+            },
+            {
+                "Type": "Full Length",
+                "Price": 0
+            },
+            {
+                "Type": "Tassels with Neck Ties",
+                "Price": 30
+            },
+            {
+                "Type": "Binding on Neckline and Sleeves",
+                "Price": 40
+            },
+            {
+                "Type": "Hemming for Dupatta",
+                "Price": 25
+            },
+            {
+                "Type": "Side Pocket",
+                "Price": 25
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Type": "Bottom",
+        "Items": [
+            {
+                "id": 1,
+                "Type": "Churidar",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Salwar",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Patiala",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Pant",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Plain Plazo",
+                "Price": 299
+            }
+        ],
+        "Addons": [
+            {
+                "Type": "Waist with Elastic",
+                "Price": 75
+            },
+            {
+                "Type": "Waist with Normal Strings",
+                "Price": 0
+            },
+            {
+                "Type": "Pre-washed Cotton",
+                "Price": 150
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Type": "SalwarSuit",
+        "Items": [
+            {
+                "id": 1,
+                "Type": "V-Neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "U neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Square neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Rectangle neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Diamond Neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Scalloped neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Horseshoe neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Square with criss-cross neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Crew neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Boat neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Spaghetti - Square neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Spaghetti - U neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Nehru Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Collar with Deep V-neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Classic Shirt Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Peter Pan Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "High Collar",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Stand-up Collar with Sweetheart neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Deep Sweetheart neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "High collar halter neck",
+                "Price": 499
+            },
+            {
+                "id": 1,
+                "Type": "Halter neck",
+                "Price": 299
+            },
+            {
+                "id": 1,
+                "Type": "Round with V-neck",
+                "Price": 299
+            }
+        ],
+        "Addons": [
+            {
+                "Type": "Pre-washed Cotton-Bottom Lining",
+                "Price": 150
+            },
+             {
+                "Type": "Pre-washed Cotton-Top Lining",
+                "Price": 150
+            },
+             {
+                "Type": "Waist with Elastic",
+                "Price": 75
+            },
+            {
+                "Type": "Waist with Normal Strings",
+                "Price": 0
+            },
+            {
+                "Type": "Back with Zip",
+                "Price": 25
+            },
+            {
+                "Type": "Quarter Length",
+                "Price": 0
+            },
+            {
+                "Type": "Half Length",
+                "Price": 0
+            },
+            {
+                "Type": "Full Length",
+                "Price": 0
+            },
+            {
+                "Type": "Side Pocket",
+                "Price": 25
+            },
+            
+           {
+                "Type": "Tassels with Neck Ties",
+                "Price": 30
+            },
+            {
+                "Type": "Binding on Neckline and Sleeves",
+                "Price": 40
+            },
+           {
+                "Type": "Hemming for Dupatta",
+                "Price": 25
+            }
+        ]
+    }
+]
