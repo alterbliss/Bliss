@@ -62,21 +62,25 @@ app.post("/GetPrice/:ItemType/:SubItemType", function (req, res) {
             obj.forEach(function (Item) {
                 if (Item.Id.toString() === ItemType) {
                     Item.Addons.forEach(function (subItem) {
-                        extra.forEach(function (extrItem) {
-                            if (subItem.Type === extrItem.SubItemValue) {
-                                extrItem.Price = subItem.Price
-                            }
-                        });
+                        if (extra !== undefined) {
+                            extra.forEach(function (extrItem) {
+                                if (subItem.Type === extrItem.SubItemValue) {
+                                    extrItem.Price = subItem.Price
+                                }
+                            });
+                        }
 
                     })
                 }
             }, this);
 
             //total calculation
-            if (extra.length > 0) {
-                extra.forEach(function (extraItem) {
-                    TotalPrice = TotalPrice + extraItem.Price;
-                })
+            if (extra !== undefined) {
+                if (extra.length > 0) {
+                    extra.forEach(function (extraItem) {
+                        TotalPrice = TotalPrice + extraItem.Price;
+                    })
+                }
             }
 
             TotalPrice = TotalPrice + ItemPrice;
@@ -100,13 +104,13 @@ app.post("/PlaceOrder", function (req, res) {
     var UserDetails = req.body.UserDetails;
     var emailClient = require('./sendMail');
 
-    emailClient.sendEmail(Order,UserDetails,function(err,output){
-        if(err){
+    emailClient.sendEmail(Order, UserDetails, function (err, output) {
+        if (err) {
             res.status(500).send("Error placing order")
-        }else{
+        } else {
             res.send("Order Placed")
         }
-        
+
     });
 })
 app.get('*', function (req, res) {

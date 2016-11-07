@@ -43,6 +43,9 @@ $(document).ready(function () {
             Name:$("#name").val(),
             Email:$("#email").val(),
             Phone:$("#phone").val(),
+            Address:$("#address").val(),
+            Pincode:$("#pincode").val(),
+            Pickup:$("#pickup").val(),
             Message:$("#message").val()
         }
         PlaceOrder(UserDetails)
