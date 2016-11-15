@@ -40,7 +40,7 @@
 14. In bottom , two pics UTC 134 & UTC 135 to be added in bottom selection.
 	# TODO
 
-15. PFA -Terms and conditions . to be added in the bottom.
+15. PFA -Terms and conditions . to be added in the bottom & check box before order placing.
 	# TODO
 
 16. We need to add prince cut in blouse add on in place of padding( image no EXT17)
@@ -49,8 +49,12 @@
 17. Slider images are note displayed it need to be displayed
 	#### fixed
 
-18. Is it possible to generate Order no ?
+18. PIN Code & Pick up time  validation ?
+	# TODO
+19. Price summary in the EMAIL
+	# TODO
+20. Is it possible to generate Order no ?
 	### NO
-
+	
 previous comments to be added in due course of operation ( specially the 5 pages & a particular selection shall have a particular back selection ) 
 i m still testing ,Other comments  if any will be send to u in due course of time.
