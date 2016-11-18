@@ -40,7 +40,7 @@
 
 14. In bottom , two pics UTC 134 & UTC 135 to be added in bottom selection.
 	# TODO
-
+       # Fixed just merge the pull request
 15. PFA -Terms and conditions . to be added in the bottom & check box before order placing.
 	# TODO
 
