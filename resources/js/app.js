@@ -42,7 +42,7 @@ jQuery(function ($) {
     }
     var kurta5 = function () {
         ItemData["extra"]=[];
-        var url = "/views/kurtaAddons";
+        var url = "/views/KurtaAddons";
         loadPartial(url);
     }
     var BottomAddons = function (e) {
