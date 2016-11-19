@@ -12,6 +12,8 @@
 6. In kurta not showing add on option,after selection of hemline then show price is 0/- and if press back bottom to go previous that time site goes to hang and screen display will come , application error  
     #### test this once  more. Could not reproduce the NO addon option, but the alert of application error was fixed .
 -----> Tested , No addon option available.After hemline it is skiping Add on.Need to Fix{ Wen tested in Node Js server ,in local host ,its working fine}
+	#### Fixed
+
 7. Please change pre wash cotton to lining only
     #### fixed
 
@@ -26,7 +28,7 @@
 10. " Congratulation YOUR order has been placed " - this msg has to be displayed when email is sent and order is place.
 
 	# Fixed----> not fixed , after order is place, it returns to home page. This message has to be dere before it returns to homepage
-	# TODO 
+	# Showing a popup after placement of order
 
 11. Copy of email has to be marked to alterbliss.om@gmail.com.
 	# Fixed
