@@ -135,39 +135,48 @@
         "Addons": [
             {
                 "Type": "Cotton Lining",
-                "Price": 60
+                "Price": 60,
+                "image":"EXT3.png"
             },
             {
                 "Type": "Front with Hooks",
-                "Price": 0
+                "Price": 0,
+                 "image":"EXT8.png"
             },
              {
                 "Type": "Back with Hooks",
-                "Price": 0
+                "Price": 0,
+                  "image":"EXT9.png"
             },
             {
                 "Type": "Side with Zip",
-                "Price": 25
+                "Price": 25,
+                 "image":"EXT10.png"
             },
             {
                 "Type": "Tassels with Neck Ties",
-                "Price": 30
+                "Price": 30,
+                 "image":"EXT18.png"
             },
             {
                 "Type": "Binding on Neckline and Sleeves",
-                "Price": 40
+                "Price": 40,
+                 "image":"EXT15.png"
             },
             {
                 "Type": "Saree Falls & Pico",
-                "Price": 90
+                "Price": 90,
+                 "image":"EXT19.png"
             },
             {
                 "Type": "Pico for Dupatta",
-                "Price": 25
+                "Price": 25,
+                 "image":"EXT20.png"
             },
             {
                 "Type": "Prince Cut",
-                "Price": 100
+                "Price": 100,
+                 "image":"EXT17.png"
             }
         ]
     },
