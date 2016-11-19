@@ -1,20 +1,26 @@
 $(document).ready(function () {
     $("#itemType").text("Order Details -" + ItemType.ItemTypeText);
-    var index = 1
-    $.each(ItemData, function (itemType) {
-        if (itemType === "extra") {
-            $.each(ItemData["extra"], function (extraType) {
-                $("#orderDetails").append("<tr><td>" + index + "</td><td>" + ItemData[itemType][extraType].SubItemType + "</td><td>" + ItemData[itemType][extraType].SubItemValue + "</td><td></td><td></td></tr>")
-                index++;
-            });
-        } else {
-            $("#orderDetails").append("<tr><td>" + itemType + "</td><td>" + ItemData[itemType].SubItemType + "</td><td>" + ItemData[itemType].SubItemValue + "</td><td></td><td></td></tr>")
-        }
+    var index = 1;
 
-        index++;
-    });
+    if (ItemType.id && ItemType.id.length>0) {
+        $.each(ItemData, function (itemType) {
+            if (itemType === "extra") {
+                $.each(ItemData["extra"], function (extraType) {
+                    $("#orderDetails").append("<tr><td>" + index + "</td><td>" + ItemData[itemType][extraType].SubItemType + "</td><td>" + ItemData[itemType][extraType].SubItemValue + "</td><td></td><td></td></tr>")
+                    index++;
+                });
+            } else {
+                $("#orderDetails").append("<tr><td>" + itemType + "</td><td>" + ItemData[itemType].SubItemType + "</td><td>" + ItemData[itemType].SubItemValue + "</td><td></td><td></td></tr>")
+            }
 
-    Getprice();
+            index++;
+        });
+    }
+
+    if (ItemType.id && ItemType.id.length>0) {
+        Getprice();
+    }
+
     function Getprice() {
         var subItem = ItemData[1].SubItemValue;
         var ItemId = ItemType.id
@@ -37,29 +43,54 @@ $(document).ready(function () {
     }
 
     $('#contactForm').submit(function (e) {
-        alert( "Handler for .submit() called." );
+        // alert("Handler for .submit() called.");
         e.preventDefault();
-        var UserDetails ={
-            Name:$("#name").val(),
-            Email:$("#email").val(),
-            Phone:$("#phone").val(),
-            Address:$("#address").val(),
-            Pincode:$("#pincode").val(),
-            Pickup:$("#pickup").val(),
-            Message:$("#message").val()
+        var UserDetails = {
+            Name: $("#name").val(),
+            Email: $("#email").val(),
+            Phone: $("#phone").val(),
+            Address: $("#address").val(),
+            Pincode: $("#pincode").val(),
+            Pickup: $("#pickup").val(),
+            Message: $("#message").val()
         }
         PlaceOrder(UserDetails)
     })
 
     function PlaceOrder(UserDetails) {
-        $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails })
-            .done(function (data) {
-               alert(data);
-               window.location.href ="/"
-            })
-            .fail(function (error) {
-                alert(error);
-            })
+        // $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails })
+        //     .done(function (data) {
+        //     //    alert(data);
+        //     //    window.location.href ="/"
+        //     })
+        //     .fail(function (error) {
+        //         alert(error);
+        //     });
+        ShowConfirmationModal()
     }
-})
+
+    function ShowConfirmationModal() {
+
+        var x = '<div class="modal fade" data-backdrop="static"  data-keyboard="false"  id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">'
+            + '<div class="modal-dialog" role="document">'
+            + ' <div class="modal-content">'
+            + '  <div class="modal-header">'
+            + '   <button type="button" class="close"  onClick="redirectToHomePage()"><span aria-hidden="true">&times;</span></button>'
+            + '</div>'
+            + '<div class="modal-body">'
+            + '<h4 class="modal-title" id="exampleModalLabel">Congratulations! your order is Placed.</h4>'
+            + '</div>'
+            + '<div class="modal-footer">'
+            + '<button type="button" class="btn btn-primary" onClick="redirectToHomePage()">Okay</button>'
+            + '</div>'
+            + '</div>'
+            + '</div>'
+            + '</div>';
+
+        $(x).modal();
+    }
+});
+ function redirectToHomePage(){
+        location.href="/";
+    }
 //# sourceURL=PlaceOrder.js
