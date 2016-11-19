@@ -6,146 +6,177 @@
             {
                 "id": 1,
                 "Type": "V-Neck",
-                "Price": 350
+                "Price": 350,
+                "image":"UTC1.png"
             },
             {
                 "id": 2,
                 "Type": "U-Neck",
-                "Price": 350
+                "Price": 350,
+                "image":"UTC2.png"
             },
             {
                 "id": 3,
                 "Type": "Square neck",
-                "Price": 350
+                "Price": 350,
+                "image":"UTC3.png"
             },
             {
                 "id": 1,
                 "Type": "Rectangle neck",
-                "Price": 350
+                "Price": 350,
+                "image":"UTC4.png"
             },
             {
                 "Type": "Diamond Neck",
-                "Price": 350
+                "Price": 350,
+                "image":"UTC5.png"
             },
             {
                 "Type": "Scalloped neck",
-                "Price": 499
+                "Price": 499,
+                "image":"UTC6.png"
             },
             {
                 "Type": "Horseshoe neck",
-                "Price": 350
+                "Price": 350,
+                "image":"UTC12.png"
             },
             {
                 "Type": "Square with criss-cross neck",
-                "Price": 499
+                "Price": 499,
+                "image":"UTC16.png"
             },
             {
                 "Type": "Crew neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC20.png"
             },
             {
                 "Type": "Boat neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC21.png"
             },
             {
                 "Type": "Spaghetti - Square neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC22.png"
             },
             {
                 "Type": "Spaghetti - U neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC23.png"
             },
             {
                 "Type": "Nehru Collar",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC33.png"
             },
             {
                 "Type": "Collar with Deep V-neck",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC34.png"
             },
             {
                 "Type": "Classic Shirt Collar",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC35.png"
             },
             {
                 "Type": "Peter Pan Collar",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC36.png"
             },
             {
                 "Type": "High Collar",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC37.png"
             },
             {
                 "Type": "Stand-up Collar with Sweetheart neck",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC39.png"
             },
             {
                 "Type": "Deep Sweetheart neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC52.png"
             },
             {
                 "Type": "High collar halter neck",
                 "id": 1,
-                "Price": 499
+                "Price": 499,
+                "image":"UTC165.png"
             },
             {
                 "Type": "Halter neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC166.png"
             },
             {
                 "Type": "Round with V-neck",
                 "id": 1,
-                "Price": 350
+                "Price": 350,
+                "image":"UTC189.png"
             }
         ],
         "Addons": [
             {
                 "Type": "Cotton Lining",
-                "Price": 60
+                "Price": 60,
+                "image":"EXT3.png"
             },
             {
                 "Type": "Front with Hooks",
-                "Price": 0
+                "Price": 0,
+                 "image":"EXT8.png"
             },
              {
                 "Type": "Back with Hooks",
-                "Price": 0
+                "Price": 0,
+                  "image":"EXT9.png"
             },
             {
                 "Type": "Side with Zip",
-                "Price": 25
+                "Price": 25,
+                 "image":"EXT10.png"
             },
             {
                 "Type": "Tassels with Neck Ties",
-                "Price": 30
+                "Price": 30,
+                 "image":"EXT18.png"
             },
             {
                 "Type": "Binding on Neckline and Sleeves",
-                "Price": 40
+                "Price": 40,
+                 "image":"EXT15.png"
             },
             {
                 "Type": "Saree Falls & Pico",
-                "Price": 90
+                "Price": 90,
+                 "image":"EXT19.png"
             },
             {
                 "Type": "Pico for Dupatta",
-                "Price": 25
+                "Price": 25,
+                 "image":"EXT20.png"
             },
             {
                 "Type": "Prince Cut",
-                "Price": 100
+                "Price": 100,
+                 "image":"EXT17.png"
             }
         ]
     },
