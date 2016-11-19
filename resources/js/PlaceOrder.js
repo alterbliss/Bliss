@@ -57,6 +57,13 @@ $(document).ready(function () {
         PlaceOrder(UserDetails)
     })
 
+    $("#termsCheck").change(function(){
+        if(document.getElementById("termsCheck").checked === true){
+            document.getElementById("submitForm").disabled = false;
+        }else{
+            document.getElementById("submitForm").disabled = true;
+        }
+    })
     function PlaceOrder(UserDetails) {
         // $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails })
         //     .done(function (data) {
