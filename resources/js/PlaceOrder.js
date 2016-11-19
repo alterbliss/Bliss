@@ -65,15 +65,16 @@ $(document).ready(function () {
         }
     })
     function PlaceOrder(UserDetails) {
-        // $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails })
-        //     .done(function (data) {
-        //     //    alert(data);
-        //     //    window.location.href ="/"
-        //     })
-        //     .fail(function (error) {
-        //         alert(error);
-        //     });
-        ShowConfirmationModal()
+        $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails })
+            .done(function (data) {
+            //    alert(data);
+            //    window.location.href ="/"
+            ShowConfirmationModal()
+            })
+            .fail(function (error) {
+                alert(error);
+            });
+        
     }
 
     function ShowConfirmationModal() {
