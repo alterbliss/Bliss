@@ -6,7 +6,7 @@ module.exports = {
             service: 'Gmail',
             auth: {
                 user: 'alterbliss.com@gmail.com', // Your email id
-                pass: 'rajatisking2016' // Your password
+                pass: process.env.EMAIL_PASSWORD // Your password
             }
         });
 
