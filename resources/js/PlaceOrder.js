@@ -2,7 +2,7 @@ $(document).ready(function () {
     $("#itemType").text("Order Details -" + ItemType.ItemTypeText);
     var index = 1;
 
-    if (ItemType.id && ItemType.id.length>0) {
+    if (ItemType.id && ItemType.id !=="") {
         $.each(ItemData, function (itemType) {
             if (itemType === "extra") {
                 $.each(ItemData["extra"], function (extraType) {
@@ -17,7 +17,7 @@ $(document).ready(function () {
         });
     }
 
-    if (ItemType.id && ItemType.id.length>0) {
+    if (ItemType.id && ItemType.id !=="") {
         Getprice();
     }
 
