@@ -112,7 +112,7 @@
         ],
         "Addons": [
             {
-                "Type": "Lining",
+                "Type": "Cotton Lining",
                 "Price": 60
             },
             {
@@ -140,7 +140,7 @@
                 "Price": 90
             },
             {
-                "Type": "Hemming for Saree",
+                "Type": "Pico for Dupatta",
                 "Price": 25
             },
             {
@@ -266,7 +266,7 @@
         ],
         "Addons": [
             {
-                "Type": "Lining",
+                "Type": "Cotton Lining",
                 "Price": 100
             },
             {
@@ -343,7 +343,7 @@
                 "Price": 0
             },
             {
-                "Type": "Lining",
+                "Type": "Cotton Lining",
                 "Price": 150
             }
         ]
@@ -465,11 +465,11 @@
         ],
         "Addons": [
             {
-                "Type": "Lining-Bottom Lining",
+                "Type": "Cotton Lining-Bottom Lining",
                 "Price": 100
             },
              {
-                "Type": "Lining-Top Lining",
+                "Type": "Cotton Lining-Top Lining",
                 "Price": 100
             },
              {
