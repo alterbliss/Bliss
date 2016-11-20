@@ -102,9 +102,10 @@ app.get("/views/:view", function (req, res) {
 app.post("/PlaceOrder", function (req, res) {
     var Order = req.body.Order;
     var UserDetails = req.body.UserDetails;
+    var PriceDetails = req.body.PriceDetails;
     var emailClient = require('./sendMail');
 
-    emailClient.sendEmail(Order, UserDetails, function (err, output) {
+    emailClient.sendEmail(Order, UserDetails,PriceDetails, function (err, output) {
         if (err) {
             res.status(500).send("Error placing order")
         } else {

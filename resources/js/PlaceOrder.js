@@ -26,6 +26,7 @@ $(document).ready(function () {
         var ItemId = ItemType.id
         $.post("/GetPrice/" + ItemId + "/" + subItem, { extra: ItemData["extra"] })
             .done(function (data) {
+                window.PriceDetails = data;
                 $("#orderDetails tr:nth-child(2) td:nth-child(4)").append("<td class='Orderprice'>" + data.ItemPrice + "</td>")
                 $("#orderDetails").append("<tr><td></td><td></td><td></td><td></td><td class='Orderprice'>" + data.TotalPrice + "</td></tr>")
 
@@ -65,7 +66,7 @@ $(document).ready(function () {
         }
     })
     function PlaceOrder(UserDetails) {
-        $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails })
+        $.post("/PlaceOrder", { Order: ItemData, UserDetails: UserDetails ,PriceDetails:window.PriceDetails})
             .done(function (data) {
             //    alert(data);
             //    window.location.href ="/"
