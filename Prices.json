@@ -513,39 +513,48 @@
         "Addons": [
             {
                 "Type": "Cotton Lining",
-                "Price": 100
+                "Price": 100,
+                "image":"EXT3.png"
             },
             {
                 "Type": "Back with Zip",
-                "Price": 50
+                "Price": 50,
+                "image":"EXT11.png"
             },
             {
                 "Type": "Quarter Length",
-                "Price": 0
+                "Price": 0,
+                "image":"EXT12.png"
             },
             {
                 "Type": "Half Length",
-                "Price": 0
+                "Price": 0,
+                "image":"EXT13.png"
             },
             {
                 "Type": "Full Length",
-                "Price": 0
+                "Price": 0,
+                "image":"EXT14.png"
             },
             {
                 "Type": "Tassels with Neck Ties",
-                "Price": 30
+                "Price": 30,
+                "image":"EXT18.png"
             },
             {
                 "Type": "Binding on Neckline and Sleeves",
-                "Price": 40
+                "Price": 40,
+                "image":"EXT15.png"
             },
             {
                 "Type": "Hemming for Dupatta",
-                "Price": 25
+                "Price": 25,
+                "image":"EXT21.png"
             },
             {
                 "Type": "Side Pocket",
-                "Price": 25
+                "Price": 25,
+                "image":"EXT16.png"
             }
         ]
         "Back": [
