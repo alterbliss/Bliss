@@ -327,7 +327,61 @@
                 "image":"UTC186.png"
             }, 
         
-        ]        
+        ] 
+
+        "Sleeve": [
+            {
+                "Type": "Full sleeves",
+                "Price": 0,
+                "image":"UTC71.png"
+            },    
+            {
+                "Type": "3/4th sleeves",
+                "Price": 0,
+                "image":"UTC72.png"
+            },    
+            {
+                "Type": "Half sleeves",
+                "Price": 0,
+                "image":"UTC73.png"
+            },    
+            {
+                "Type": "Short sleeve",
+                "Price": 0,
+                "image":"UTC74.png"
+            },    
+            {
+                "Type": "Cap sleeve",
+                "Price": 0,
+                "image":"UTC75.png"
+            },    
+            {
+                "Type": "Sleeveless with thick shoulder strap",
+                "Price": 0,
+                "image":"UTC77.png"
+            },    
+            {
+                "Type": "Sleeveless with thin shoulder strap",
+                "Price": 0,
+                "image":"UTC78.png"
+            },    
+            {
+                "Type": "Puff sleeve",
+                "Price": 0,
+                "image":"UTC79.png"
+            },
+            {
+                "Type": "As per Measurement Dress",
+                "Price": 0,
+                "image":"UTC226.png"
+            },
+            {
+                "Type": "As per Dress Material",
+                "Price": 0,
+                "image":"UTC225.png"
+            },
+            
+            ]
     },
     {
         "Id": 2,
