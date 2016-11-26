@@ -68,7 +68,7 @@ module.exports = {
             from: 'alterbliss.com@gmail.com', // sender address
             to: UserDetails.Email, // list of receivers separated by comma
             cc:'alterbliss.com@gmail.com',
-            subject: 'Blis - Order Confirmation', // Subject line
+            subject: 'AlterBliss - Order Confirmation', // Subject line
             //text: text //, // plaintext body
             html: html // You can choose to send an HTML body instead
         };
