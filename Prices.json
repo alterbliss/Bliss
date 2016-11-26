@@ -7,371 +7,367 @@
                 "id": 1,
                 "Type": "V-Neck",
                 "Price": 350,
-                "image":"UTC1.png"
+                "image": "UTC1.png"
             },
             {
                 "id": 2,
                 "Type": "U-Neck",
                 "Price": 350,
-                "image":"UTC2.png"
+                "image": "UTC2.png"
             },
             {
                 "id": 3,
                 "Type": "Square neck",
                 "Price": 350,
-                "image":"UTC3.png"
+                "image": "UTC3.png"
             },
             {
                 "id": 1,
                 "Type": "Rectangle neck",
                 "Price": 350,
-                "image":"UTC4.png"
+                "image": "UTC4.png"
             },
             {
                 "Type": "Diamond Neck",
                 "Price": 350,
-                "image":"UTC5.png"
+                "image": "UTC5.png"
             },
             {
                 "Type": "Scalloped neck",
                 "Price": 499,
-                "image":"UTC6.png"
+                "image": "UTC6.png"
             },
             {
                 "Type": "Horseshoe neck",
                 "Price": 350,
-                "image":"UTC12.png"
+                "image": "UTC12.png"
             },
             {
                 "Type": "Square with criss-cross neck",
                 "Price": 499,
-                "image":"UTC16.png"
+                "image": "UTC16.png"
             },
             {
                 "Type": "Crew neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC20.png"
+                "image": "UTC20.png"
             },
             {
                 "Type": "Boat neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC21.png"
+                "image": "UTC21.png"
             },
             {
                 "Type": "Spaghetti - Square neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC22.png"
+                "image": "UTC22.png"
             },
             {
                 "Type": "Spaghetti - U neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC23.png"
+                "image": "UTC23.png"
             },
             {
                 "Type": "Nehru Collar",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC33.png"
+                "image": "UTC33.png"
             },
             {
                 "Type": "Collar with Deep V-neck",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC34.png"
+                "image": "UTC34.png"
             },
             {
                 "Type": "Classic Shirt Collar",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC35.png"
+                "image": "UTC35.png"
             },
             {
                 "Type": "Peter Pan Collar",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC36.png"
+                "image": "UTC36.png"
             },
             {
                 "Type": "High Collar",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC37.png"
+                "image": "UTC37.png"
             },
             {
                 "Type": "Stand-up Collar with Sweetheart neck",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC39.png"
+                "image": "UTC39.png"
             },
             {
                 "Type": "Deep Sweetheart neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC52.png"
+                "image": "UTC52.png"
             },
             {
                 "Type": "High collar halter neck",
                 "id": 1,
                 "Price": 499,
-                "image":"UTC165.png"
+                "image": "UTC165.png"
             },
             {
                 "Type": "Halter neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC166.png"
+                "image": "UTC166.png"
             },
             {
                 "Type": "Round with V-neck",
                 "id": 1,
                 "Price": 350,
-                "image":"UTC189.png"
+                "image": "UTC189.png"
             }
         ],
         "Addons": [
             {
                 "Type": "Cotton Lining",
                 "Price": 60,
-                "image":"EXT3.png"
+                "image": "EXT3.png"
             },
             {
                 "Type": "Front with Hooks",
                 "Price": 0,
-                 "image":"EXT8.png"
+                "image": "EXT8.png"
             },
-             {
+            {
                 "Type": "Back with Hooks",
                 "Price": 0,
-                  "image":"EXT9.png"
+                "image": "EXT9.png"
             },
             {
                 "Type": "Side with Zip",
                 "Price": 25,
-                 "image":"EXT10.png"
+                "image": "EXT10.png"
             },
             {
                 "Type": "Tassels with Neck Ties",
                 "Price": 30,
-                 "image":"EXT18.png"
+                "image": "EXT18.png"
             },
             {
                 "Type": "Binding on Neckline and Sleeves",
                 "Price": 40,
-                 "image":"EXT15.png"
+                "image": "EXT15.png"
             },
             {
                 "Type": "Saree Falls & Pico",
                 "Price": 90,
-                 "image":"EXT19.png"
+                "image": "EXT19.png"
             },
             {
                 "Type": "Pico for Dupatta",
                 "Price": 25,
-                 "image":"EXT20.png"
+                "image": "EXT20.png"
             },
             {
                 "Type": "Prince Cut",
                 "Price": 100,
-                 "image":"EXT17.png"
+                "image": "EXT17.png"
             }
-        ]
-        
-    "Back": [
+        ],
+        "Back": [
             {
                 "Type": "U-Neck",
                 "Price": 0,
-                "image":"UTC40.png"
-            },    
+                "image": "UTC40.png"
+            },
             {
                 "Type": "V-Neck",
                 "Price": 0,
-                "image":"UTC41.png"
-            },  
+                "image": "UTC41.png"
+            },
             {
                 "Type": "Square Neck",
                 "Price": 0,
-                "image":"UTC42.png"
-            },  
+                "image": "UTC42.png"
+            },
             {
                 "Type": "Rectangle Neck",
                 "Price": 0,
-                "image":"UTC43.png"
-            },  
+                "image": "UTC43.png"
+            },
             {
                 "Type": "Sweetheart Neck",
                 "Price": 0,
-                "image":"UTC44.png"
-            },  
+                "image": "UTC44.png"
+            },
             {
                 "Type": "Scalloped Neck",
                 "Price": 0,
-                "image":"UTC45.png"
-            },  
+                "image": "UTC45.png"
+            },
             {
                 "Type": "Loop with button",
                 "Price": 0,
-                "image":"UTC53.png"
-            },  
+                "image": "UTC53.png"
+            },
             {
                 "Type": "Drop shaped keyhole",
                 "Price": 0,
-                "image":"UTC55.png"
-            },  
+                "image": "UTC55.png"
+            },
             {
                 "Type": "Four Strings",
                 "Price": 0,
-                "image":"UTC59.png"
-            },  
+                "image": "UTC59.png"
+            },
             {
                 "Type": "Fisheye keyhole",
                 "Price": 0,
-                "image":"UTC60.png"
-            },  
+                "image": "UTC60.png"
+            },
             {
                 "Type": "Square with criss-cross",
                 "Price": 0,
-                "image":"UTC63.png"
-            },  
+                "image": "UTC63.png"
+            },
             {
                 "Type": "Crew Neck",
                 "Price": 0,
-                "image":"UTC64.png"
-            },  
+                "image": "UTC64.png"
+            },
             {
                 "Type": "Boat Neck",
                 "Price": 0,
-                "image":"UTC65.png"
-            },  
+                "image": "UTC65.png"
+            },
             {
                 "Type": "Spaghetti - Square Neck",
                 "Price": 0,
-                "image":"UTC66.png"
-            },  
+                "image": "UTC66.png"
+            },
             {
                 "Type": "Spaghetti - U neck",
                 "Price": 0,
-                "image":"UTC67.png"
-            },  
+                "image": "UTC67.png"
+            },
             {
                 "Type": "Collared Neck",
                 "Price": 0,
-                "image":"UTC149.png"
-            },  
+                "image": "UTC149.png"
+            },
             {
                 "Type": "Neckless with strings",
                 "Price": 0,
-                "image":"UTC150.png"
-            },  
+                "image": "UTC150.png"
+            },
             {
                 "Type": "Neckless with strap",
                 "Price": 0,
-                "image":"UTC152.png"
-            },  
+                "image": "UTC152.png"
+            },
             {
                 "Type": "Halter with Neck bustier",
                 "Price": 0,
-                "image":"UTC154.png"
-            },  
+                "image": "UTC154.png"
+            },
             {
                 "Type": "Halter with straps at back",
                 "Price": 0,
-                "image":"UTC155.png"
-            },  
+                "image": "UTC155.png"
+            },
             {
                 "Type": "Halter with strings",
                 "Price": 0,
-                "image":"UTC156.png"
-            }, 
-             {
+                "image": "UTC156.png"
+            },
+            {
                 "Type": "Collared Neck with drop keyhole",
                 "Price": 0,
-                "image":"UTC157.png"
-            }, 
-             {
+                "image": "UTC157.png"
+            },
+            {
                 "Type": "Collared Neck with straps",
                 "Price": 0,
-                "image":"UTC163.png"
-            }, 
-             {
+                "image": "UTC163.png"
+            },
+            {
                 "Type": "Collared Neck with strings",
                 "Price": 0,
-                "image":"UTC164.png"
-            }, 
-             {
+                "image": "UTC164.png"
+            },
+            {
                 "Type": "Collared Neck with fisheye keyhole",
                 "Price": 0,
-                "image":"UTC167.png"
-            }, 
+                "image": "UTC167.png"
+            },
             {
                 "Type": "Classic Shirt Collar",
                 "Price": 0,
-                "image":"UTC168.png"
-            }, 
+                "image": "UTC168.png"
+            },
             {
                 "Type": "Peter Pan Collar",
                 "Price": 0,
-                "image":"UTC169.png"
-            }, 
+                "image": "UTC169.png"
+            },
             {
                 "Type": "High Collar Halter Neck",
                 "Price": 0,
-                "image":"UTC184.png"
-            }, 
+                "image": "UTC184.png"
+            },
             {
                 "Type": "Round Neck",
                 "Price": 0,
-                "image":"UTC186.png"
-            }, 
-        
-        ] 
-
+                "image": "UTC186.png"
+            }
+        ],
         "Sleeve": [
             {
                 "Type": "Full sleeves",
                 "Price": 0,
-                "image":"UTC71.png"
-            },    
+                "image": "UTC71.png"
+            },
             {
                 "Type": "3/4th sleeves",
                 "Price": 0,
-                "image":"UTC72.png"
-            },    
+                "image": "UTC72.png"
+            },
             {
                 "Type": "Half sleeves",
                 "Price": 0,
-                "image":"UTC73.png"
-            },    
+                "image": "UTC73.png"
+            },
             {
                 "Type": "Short sleeve",
                 "Price": 0,
-                "image":"UTC74.png"
-            },    
+                "image": "UTC74.png"
+            },
             {
                 "Type": "Cap sleeve",
                 "Price": 0,
-                "image":"UTC75.png"
-            },    
+                "image": "UTC75.png"
+            },
             {
                 "Type": "Sleeveless with thick shoulder strap",
                 "Price": 0,
-                "image":"UTC77.png"
-            },    
+                "image": "UTC77.png"
+            },
             {
                 "Type": "Sleeveless with thin shoulder strap",
                 "Price": 0,
-                "image":"UTC78.png"
-            },    
+                "image": "UTC78.png"
+            },
             {
                 "Type": "Puff sleeve",
                 "Price": 0,
-                "image":"UTC79.png"
-            },
-                        
-            ]
+                "image": "UTC79.png"
+            }
+        ]
     },
     {
         "Id": 2,
@@ -381,400 +377,398 @@
                 "id": 1,
                 "Type": "V-Neck",
                 "Price": 399,
-                "image":"UTC1.png"
+                "image": "UTC1.png"
             },
             {
                 "id": 1,
                 "Type": "U-neck",
                 "Price": 399,
-                "image":"UTC2.png"
+                "image": "UTC2.png"
             },
             {
                 "id": 1,
                 "Type": "Square neck",
                 "Price": 399,
-                "image":"UTC3.png"
+                "image": "UTC3.png"
             },
             {
                 "id": 1,
                 "Type": "Rectangle neck",
                 "Price": 399,
-                "image":"UTC4.png"
+                "image": "UTC4.png"
             },
             {
                 "id": 1,
                 "Type": "Diamond Neck",
                 "Price": 399,
-                "image":"UTC5.png"
+                "image": "UTC5.png"
             },
             {
                 "id": 1,
                 "Type": "Scalloped neck",
                 "Price": 399,
-                "image":"UTC6.png"
+                "image": "UTC6.png"
             },
             {
                 "id": 1,
                 "Type": "Horseshoe neck",
                 "Price": 399,
-                "image":"UTC12.png"
+                "image": "UTC12.png"
             },
             {
                 "id": 1,
                 "Type": "Square with criss-cross neck",
                 "Price": 399,
-                "image":"UTC16.png"
+                "image": "UTC16.png"
             },
             {
                 "id": 1,
                 "Type": "Crew neck",
                 "Price": 399,
-                "image":"UTC20.png"
+                "image": "UTC20.png"
             },
             {
                 "id": 1,
                 "Type": "Boat neck",
                 "Price": 399,
-                "image":"UTC21.png"
+                "image": "UTC21.png"
             },
             {
                 "id": 1,
                 "Type": "Spaghetti - Square neck",
                 "Price": 399,
-                "image":"UTC22.png"
+                "image": "UTC22.png"
             },
             {
                 "id": 1,
                 "Type": "Spaghetti - U neck",
                 "Price": 399,
-                "image":"UTC23.png"
+                "image": "UTC23.png"
             },
             {
                 "id": 1,
                 "Type": "Nehru Collar",
                 "Price": 399,
-                "image":"UTC33.png"
+                "image": "UTC33.png"
             },
             {
                 "id": 1,
                 "Type": "Collar with Deep V-neck",
                 "Price": 399,
-                "image":"UTC34.png"
+                "image": "UTC34.png"
             },
             {
                 "id": 1,
                 "Type": "Classic Shirt Collar",
                 "Price": 399,
-                "image":"UTC35.png"
+                "image": "UTC35.png"
             },
             {
                 "id": 1,
                 "Type": "Peter Pan Collar",
                 "Price": 399,
-                "image":"UTC36.png"
+                "image": "UTC36.png"
             },
             {
                 "id": 1,
                 "Type": "High Collar",
                 "Price": 399,
-                "image":"UTC37.png"
+                "image": "UTC37.png"
             },
             {
                 "id": 1,
                 "Type": "Stand-up Collar with Sweetheart neck",
                 "Price": 399,
-                "image":"UTC39.png"
+                "image": "UTC39.png"
             },
             {
                 "id": 1,
                 "Type": "Deep Sweetheart neck",
                 "Price": 399,
-                "image":"UTC52.png"
+                "image": "UTC52.png"
             },
             {
                 "id": 1,
                 "Type": "High collar halter neck",
                 "Price": 399,
-                "image":"UTC165.png"
+                "image": "UTC165.png"
             },
             {
                 "id": 1,
                 "Type": "Halter neck",
                 "Price": 399,
-                "image":"UTC166.png"
+                "image": "UTC166.png"
             },
             {
                 "id": 1,
                 "Type": "Round with V-neck",
                 "Price": 399,
-                "image":"UTC189.png"
+                "image": "UTC189.png"
             }
         ],
         "Addons": [
             {
                 "Type": "Cotton Lining",
                 "Price": 100,
-                "image":"EXT3.png"
+                "image": "EXT3.png"
             },
             {
                 "Type": "Back with Zip",
                 "Price": 50,
-                "image":"EXT11.png"
+                "image": "EXT11.png"
             },
             {
                 "Type": "Quarter Length",
                 "Price": 0,
-                "image":"EXT12.png"
+                "image": "EXT12.png"
             },
             {
                 "Type": "Half Length",
                 "Price": 0,
-                "image":"EXT13.png"
+                "image": "EXT13.png"
             },
             {
                 "Type": "Full Length",
                 "Price": 0,
-                "image":"EXT14.png"
+                "image": "EXT14.png"
             },
             {
                 "Type": "Tassels with Neck Ties",
                 "Price": 30,
-                "image":"EXT18.png"
+                "image": "EXT18.png"
             },
             {
                 "Type": "Binding on Neckline and Sleeves",
                 "Price": 40,
-                "image":"EXT15.png"
+                "image": "EXT15.png"
             },
             {
                 "Type": "Hemming for Dupatta",
                 "Price": 25,
-                "image":"EXT21.png"
+                "image": "EXT21.png"
             },
             {
                 "Type": "Side Pocket",
                 "Price": 25,
-                "image":"EXT16.png"
+                "image": "EXT16.png"
             }
-        ]
+        ],
         "Back": [
             {
                 "Type": "U-Neck",
                 "Price": 0,
-                "image":"UTC40.png"
-            },    
+                "image": "UTC40.png"
+            },
             {
                 "Type": "V-Neck",
                 "Price": 0,
-                "image":"UTC41.png"
-            },  
+                "image": "UTC41.png"
+            },
             {
                 "Type": "Square Neck",
                 "Price": 0,
-                "image":"UTC42.png"
-            },  
+                "image": "UTC42.png"
+            },
             {
                 "Type": "Rectangle Neck",
                 "Price": 0,
-                "image":"UTC43.png"
-            },  
+                "image": "UTC43.png"
+            },
             {
                 "Type": "Sweetheart Neck",
                 "Price": 0,
-                "image":"UTC44.png"
-            },  
+                "image": "UTC44.png"
+            },
             {
                 "Type": "Scalloped Neck",
                 "Price": 0,
-                "image":"UTC45.png"
-            },  
+                "image": "UTC45.png"
+            },
             {
                 "Type": "Loop with button",
                 "Price": 0,
-                "image":"UTC53.png"
-            },  
+                "image": "UTC53.png"
+            },
             {
                 "Type": "Drop shaped keyhole",
                 "Price": 0,
-                "image":"UTC55.png"
-            },  
+                "image": "UTC55.png"
+            },
             {
                 "Type": "Four Strings",
                 "Price": 0,
-                "image":"UTC59.png"
-            },  
+                "image": "UTC59.png"
+            },
             {
                 "Type": "Fisheye keyhole",
                 "Price": 0,
-                "image":"UTC60.png"
-            },  
+                "image": "UTC60.png"
+            },
             {
                 "Type": "Square with criss-cross",
                 "Price": 0,
-                "image":"UTC63.png"
-            },  
+                "image": "UTC63.png"
+            },
             {
                 "Type": "Crew Neck",
                 "Price": 0,
-                "image":"UTC64.png"
-            },  
+                "image": "UTC64.png"
+            },
             {
                 "Type": "Boat Neck",
                 "Price": 0,
-                "image":"UTC65.png"
-            },  
+                "image": "UTC65.png"
+            },
             {
                 "Type": "Spaghetti - Square Neck",
                 "Price": 0,
-                "image":"UTC66.png"
-            },  
+                "image": "UTC66.png"
+            },
             {
                 "Type": "Spaghetti - U neck",
                 "Price": 0,
-                "image":"UTC67.png"
-            },  
+                "image": "UTC67.png"
+            },
             {
                 "Type": "Collared Neck",
                 "Price": 0,
-                "image":"UTC149.png"
-            },  
+                "image": "UTC149.png"
+            },
             {
                 "Type": "Neckless with strings",
                 "Price": 0,
-                "image":"UTC150.png"
-            },  
+                "image": "UTC150.png"
+            },
             {
                 "Type": "Neckless with strap",
                 "Price": 0,
-                "image":"UTC152.png"
-            },  
+                "image": "UTC152.png"
+            },
             {
                 "Type": "Halter with Neck bustier",
                 "Price": 0,
-                "image":"UTC154.png"
-            },  
+                "image": "UTC154.png"
+            },
             {
                 "Type": "Halter with straps at back",
                 "Price": 0,
-                "image":"UTC155.png"
-            },  
+                "image": "UTC155.png"
+            },
             {
                 "Type": "Halter with strings",
                 "Price": 0,
-                "image":"UTC156.png"
-            }, 
-             {
+                "image": "UTC156.png"
+            },
+            {
                 "Type": "Collared Neck with drop keyhole",
                 "Price": 0,
-                "image":"UTC157.png"
-            }, 
-             {
+                "image": "UTC157.png"
+            },
+            {
                 "Type": "Collared Neck with straps",
                 "Price": 0,
-                "image":"UTC163.png"
-            }, 
-             {
+                "image": "UTC163.png"
+            },
+            {
                 "Type": "Collared Neck with strings",
                 "Price": 0,
-                "image":"UTC164.png"
-            }, 
-             {
+                "image": "UTC164.png"
+            },
+            {
                 "Type": "Collared Neck with fisheye keyhole",
                 "Price": 0,
-                "image":"UTC167.png"
-            }, 
+                "image": "UTC167.png"
+            },
             {
                 "Type": "Classic Shirt Collar",
                 "Price": 0,
-                "image":"UTC168.png"
-            }, 
+                "image": "UTC168.png"
+            },
             {
                 "Type": "Peter Pan Collar",
                 "Price": 0,
-                "image":"UTC169.png"
-            }, 
+                "image": "UTC169.png"
+            },
             {
                 "Type": "High Collar Halter Neck",
                 "Price": 0,
-                "image":"UTC184.png"
-            }, 
+                "image": "UTC184.png"
+            },
             {
                 "Type": "Round Neck",
                 "Price": 0,
-                "image":"UTC186.png"
-            }, 
-        
-        ] 
-
+                "image": "UTC186.png"
+            }
+        ],
         "Sleeve": [
             {
                 "Type": "Full sleeves",
                 "Price": 0,
-                "image":"UTC71.png"
-            },    
+                "image": "UTC71.png"
+            },
             {
                 "Type": "3/4th sleeves",
                 "Price": 0,
-                "image":"UTC72.png"
-            },    
+                "image": "UTC72.png"
+            },
             {
                 "Type": "Half sleeves",
                 "Price": 0,
-                "image":"UTC73.png"
-            },    
+                "image": "UTC73.png"
+            },
             {
                 "Type": "Short sleeve",
                 "Price": 0,
-                "image":"UTC74.png"
-            },    
+                "image": "UTC74.png"
+            },
             {
                 "Type": "Cap sleeve",
                 "Price": 0,
-                "image":"UTC75.png"
-            },    
+                "image": "UTC75.png"
+            },
             {
                 "Type": "Sleeveless with thick shoulder strap",
                 "Price": 0,
-                "image":"UTC77.png"
-            },    
+                "image": "UTC77.png"
+            },
             {
                 "Type": "Sleeveless with thin shoulder strap",
                 "Price": 0,
-                "image":"UTC78.png"
-            },    
+                "image": "UTC78.png"
+            },
             {
                 "Type": "Puff sleeve",
                 "Price": 0,
-                "image":"UTC79.png"
-            },        
-            ]
+                "image": "UTC79.png"
+            }
+        ],
         "HemLine": [
             {
                 "Type": "Mid-Thigh length Kurta",
                 "Price": 0,
-                "image":"UTC93.png"
-            }, 
-             {
+                "image": "UTC93.png"
+            },
+            {
                 "Type": "Above knee length Kurta",
                 "Price": 0,
-                "image":"UTC94.png"
-            }, 
-             {
+                "image": "UTC94.png"
+            },
+            {
                 "Type": "Knee length",
                 "Price": 0,
-                "image":"UTC95.png"
-            }, 
-             {
+                "image": "UTC95.png"
+            },
+            {
                 "Type": "Below knee length",
                 "Price": 0,
-                "image":"UTC96.png"
-            }, 
-             {
+                "image": "UTC96.png"
+            },
+            {
                 "Type": "Ankle length",
                 "Price": 0,
-                "image":"UTC99.png"
-            }, 
-            ]
+                "image": "UTC99.png"
+            }
+        ]
     },
     {
         "Id": 3,
@@ -784,48 +778,48 @@
                 "id": 1,
                 "Type": "Churidar",
                 "Price": 349,
-                "image":"UTC131.png"
+                "image": "UTC131.png"
             },
             {
                 "id": 1,
                 "Type": "Salwar",
                 "Price": 349,
-                "image":"UTC132.png"
+                "image": "UTC132.png"
             },
             {
                 "id": 1,
                 "Type": "Patiala",
                 "Price": 349,
-                "image":"UTC133.png"
+                "image": "UTC133.png"
             },
             {
                 "id": 1,
                 "Type": "Pant",
                 "Price": 349,
-                "image":"UTC134.png"
+                "image": "UTC134.png"
             },
             {
                 "id": 1,
                 "Type": "Plain Plazo",
                 "Price": 349,
-                "image":"UTC135.png"
+                "image": "UTC135.png"
             }
         ],
         "Addons": [
             {
                 "Type": "Waist with Elastic",
                 "Price": 75,
-                "image":"EXT6.png"
+                "image": "EXT6.png"
             },
             {
                 "Type": "Waist with Normal Strings",
                 "Price": 0,
-                "image":"EXT7.png"
+                "image": "EXT7.png"
             },
             {
                 "Type": "Cotton Lining",
                 "Price": 100,
-                "image":"EXT5.png"
+                "image": "EXT5.png"
             }
         ]
     },
@@ -837,417 +831,412 @@
                 "id": 1,
                 "Type": "V-Neck",
                 "Price": 499,
-                "image":"UTC1.png"
+                "image": "UTC1.png"
             },
             {
                 "id": 1,
                 "Type": "U-neck",
                 "Price": 499,
-                "image":"UTC2.png"
+                "image": "UTC2.png"
             },
             {
                 "id": 1,
                 "Type": "Square neck",
                 "Price": 499,
-                "image":"UTC3.png"
+                "image": "UTC3.png"
             },
             {
                 "id": 1,
                 "Type": "Rectangle neck",
                 "Price": 499,
-                "image":"UTC4.png"
+                "image": "UTC4.png"
             },
             {
                 "id": 1,
                 "Type": "Diamond Neck",
                 "Price": 499,
-                "image":"UTC5.png"
+                "image": "UTC5.png"
             },
             {
                 "id": 1,
                 "Type": "Scalloped neck",
                 "Price": 499,
-                "image":"UTC6.png"
+                "image": "UTC6.png"
             },
             {
                 "id": 1,
                 "Type": "Horseshoe neck",
                 "Price": 499,
-                "image":"UTC12.png"
+                "image": "UTC12.png"
             },
             {
                 "id": 1,
                 "Type": "Square with criss-cross neck",
                 "Price": 499,
-                "image":"UTC16.png"
+                "image": "UTC16.png"
             },
             {
                 "id": 1,
                 "Type": "Crew neck",
                 "Price": 499,
-                "image":"UTC20.png"
+                "image": "UTC20.png"
             },
             {
                 "id": 1,
                 "Type": "Boat neck",
                 "Price": 499,
-                "image":"UTC21.png"
+                "image": "UTC21.png"
             },
             {
                 "id": 1,
                 "Type": "Spaghetti - Square neck",
                 "Price": 499,
-                "image":"UTC22.png"
+                "image": "UTC22.png"
             },
             {
                 "id": 1,
                 "Type": "Spaghetti - U neck",
                 "Price": 499,
-                "image":"UTC23.png"
+                "image": "UTC23.png"
             },
             {
                 "id": 1,
                 "Type": "Nehru Collar",
                 "Price": 499,
-                "image":"UTC33.png"
+                "image": "UTC33.png"
             },
             {
                 "id": 1,
                 "Type": "Collar with Deep V-neck",
                 "Price": 499,
-                "image":"UTC34.png"
+                "image": "UTC34.png"
             },
             {
                 "id": 1,
                 "Type": "Classic Shirt Collar",
                 "Price": 499,
-                "image":"UTC35.png"
+                "image": "UTC35.png"
             },
             {
                 "id": 1,
                 "Type": "Peter Pan Collar",
                 "Price": 499,
-                "image":"UTC36.png"
+                "image": "UTC36.png"
             },
             {
                 "id": 1,
                 "Type": "High Collar",
                 "Price": 499,
-                "image":"UTC37.png"
+                "image": "UTC37.png"
             },
             {
                 "id": 1,
                 "Type": "Stand-up Collar with Sweetheart neck",
                 "Price": 499,
-                "image":"UTC39.png"
+                "image": "UTC39.png"
             },
             {
                 "id": 1,
                 "Type": "Deep Sweetheart neck",
                 "Price": 499,
-                "image":"UTC52.png"
+                "image": "UTC52.png"
             },
             {
                 "id": 1,
                 "Type": "High collar halter neck",
                 "Price": 499,
-                "image":"UTC165.png"
+                "image": "UTC165.png"
             },
             {
                 "id": 1,
                 "Type": "Halter neck",
                 "Price": 499,
-                "image":"UTC166.png"
+                "image": "UTC166.png"
             },
             {
                 "id": 1,
                 "Type": "Round with V-neck",
                 "Price": 499,
-                "image":"UTC189.png"
+                "image": "UTC189.png"
             }
         ],
         "Addons": [
             {
                 "Type": "Cotton Lining-Bottom Lining",
                 "Price": 100,
-                "image":"EXT5.png"
+                "image": "EXT5.png"
             },
-             {
+            {
                 "Type": "Cotton Lining-Top Lining",
                 "Price": 100,
-                 "image":"EXT3.png"
+                "image": "EXT3.png"
             },
-             {
+            {
                 "Type": "Waist with Elastic",
                 "Price": 75,
-                 "image":"EXT6.png"
+                "image": "EXT6.png"
             },
             {
                 "Type": "Waist with Normal Strings",
                 "Price": 0,
-                "image":"EXT7.png"
+                "image": "EXT7.png"
             },
-             {
+            {
                 "Type": "Back with Zip",
                 "Price": 50,
-                "image":"EXT11.png"
+                "image": "EXT11.png"
             },
             {
                 "Type": "Quarter Length",
                 "Price": 0,
-                "image":"EXT12.png"
+                "image": "EXT12.png"
             },
             {
                 "Type": "Half Length",
                 "Price": 0,
-                "image":"EXT13.png"
+                "image": "EXT13.png"
             },
             {
                 "Type": "Full Length",
                 "Price": 0,
-                "image":"EXT14.png"
+                "image": "EXT14.png"
             },
-              {
+            {
                 "Type": "Side Pocket",
                 "Price": 25,
-                "image":"EXT16.png"
+                "image": "EXT16.png"
             },
             {
                 "Type": "Tassels with Neck Ties",
                 "Price": 30,
-                "image":"EXT18.png"
+                "image": "EXT18.png"
             },
             {
                 "Type": "Binding on Neckline and Sleeves",
                 "Price": 40,
-                "image":"EXT15.png"
+                "image": "EXT15.png"
             },
             {
                 "Type": "Hemming for Dupatta",
                 "Price": 25,
-                "image":"EXT21.png"
-            },
-
-        ]
+                "image": "EXT21.png"
+            }
+        ],
         "Back": [
             {
                 "Type": "U-Neck",
                 "Price": 0,
-                "image":"UTC40.png"
-            },    
+                "image": "UTC40.png"
+            },
             {
                 "Type": "V-Neck",
                 "Price": 0,
-                "image":"UTC41.png"
-            },  
+                "image": "UTC41.png"
+            },
             {
                 "Type": "Square Neck",
                 "Price": 0,
-                "image":"UTC42.png"
-            },  
+                "image": "UTC42.png"
+            },
             {
                 "Type": "Rectangle Neck",
                 "Price": 0,
-                "image":"UTC43.png"
-            },  
+                "image": "UTC43.png"
+            },
             {
                 "Type": "Sweetheart Neck",
                 "Price": 0,
-                "image":"UTC44.png"
-            },  
+                "image": "UTC44.png"
+            },
             {
                 "Type": "Scalloped Neck",
                 "Price": 0,
-                "image":"UTC45.png"
-            },  
+                "image": "UTC45.png"
+            },
             {
                 "Type": "Loop with button",
                 "Price": 0,
-                "image":"UTC53.png"
-            },  
+                "image": "UTC53.png"
+            },
             {
                 "Type": "Drop shaped keyhole",
                 "Price": 0,
-                "image":"UTC55.png"
-            },  
+                "image": "UTC55.png"
+            },
             {
                 "Type": "Four Strings",
                 "Price": 0,
-                "image":"UTC59.png"
-            },  
+                "image": "UTC59.png"
+            },
             {
                 "Type": "Fisheye keyhole",
                 "Price": 0,
-                "image":"UTC60.png"
-            },  
+                "image": "UTC60.png"
+            },
             {
                 "Type": "Square with criss-cross",
                 "Price": 0,
-                "image":"UTC63.png"
-            },  
+                "image": "UTC63.png"
+            },
             {
                 "Type": "Crew Neck",
                 "Price": 0,
-                "image":"UTC64.png"
-            },  
+                "image": "UTC64.png"
+            },
             {
                 "Type": "Boat Neck",
                 "Price": 0,
-                "image":"UTC65.png"
-            },  
+                "image": "UTC65.png"
+            },
             {
                 "Type": "Spaghetti - Square Neck",
                 "Price": 0,
-                "image":"UTC66.png"
-            },  
+                "image": "UTC66.png"
+            },
             {
                 "Type": "Spaghetti - U neck",
                 "Price": 0,
-                "image":"UTC67.png"
-            },  
+                "image": "UTC67.png"
+            },
             {
                 "Type": "Collared Neck",
                 "Price": 0,
-                "image":"UTC149.png"
-            },  
+                "image": "UTC149.png"
+            },
             {
                 "Type": "Neckless with strings",
                 "Price": 0,
-                "image":"UTC150.png"
-            },  
+                "image": "UTC150.png"
+            },
             {
                 "Type": "Neckless with strap",
                 "Price": 0,
-                "image":"UTC152.png"
-            },  
+                "image": "UTC152.png"
+            },
             {
                 "Type": "Halter with Neck bustier",
                 "Price": 0,
-                "image":"UTC154.png"
-            },  
+                "image": "UTC154.png"
+            },
             {
                 "Type": "Halter with straps at back",
                 "Price": 0,
-                "image":"UTC155.png"
-            },  
+                "image": "UTC155.png"
+            },
             {
                 "Type": "Halter with strings",
                 "Price": 0,
-                "image":"UTC156.png"
-            }, 
-             {
+                "image": "UTC156.png"
+            },
+            {
                 "Type": "Collared Neck with drop keyhole",
                 "Price": 0,
-                "image":"UTC157.png"
-            }, 
-             {
+                "image": "UTC157.png"
+            },
+            {
                 "Type": "Collared Neck with straps",
                 "Price": 0,
-                "image":"UTC163.png"
-            }, 
-             {
+                "image": "UTC163.png"
+            },
+            {
                 "Type": "Collared Neck with strings",
                 "Price": 0,
-                "image":"UTC164.png"
-            }, 
-             {
+                "image": "UTC164.png"
+            },
+            {
                 "Type": "Collared Neck with fisheye keyhole",
                 "Price": 0,
-                "image":"UTC167.png"
-            }, 
+                "image": "UTC167.png"
+            },
             {
                 "Type": "Classic Shirt Collar",
                 "Price": 0,
-                "image":"UTC168.png"
-            }, 
+                "image": "UTC168.png"
+            },
             {
                 "Type": "Peter Pan Collar",
                 "Price": 0,
-                "image":"UTC169.png"
-            }, 
+                "image": "UTC169.png"
+            },
             {
                 "Type": "High Collar Halter Neck",
                 "Price": 0,
-                "image":"UTC184.png"
-            }, 
+                "image": "UTC184.png"
+            },
             {
                 "Type": "Round Neck",
                 "Price": 0,
-                "image":"UTC186.png"
-            }, 
-        
-        ] 
-
+                "image": "UTC186.png"
+            }
+        ],
         "Sleeve": [
             {
                 "Type": "Full sleeves",
                 "Price": 0,
-                "image":"UTC71.png"
-            },    
+                "image": "UTC71.png"
+            },
             {
                 "Type": "3/4th sleeves",
                 "Price": 0,
-                "image":"UTC72.png"
-            },    
+                "image": "UTC72.png"
+            },
             {
                 "Type": "Half sleeves",
                 "Price": 0,
-                "image":"UTC73.png"
-            },    
+                "image": "UTC73.png"
+            },
             {
                 "Type": "Short sleeve",
                 "Price": 0,
-                "image":"UTC74.png"
-            },    
+                "image": "UTC74.png"
+            },
             {
                 "Type": "Cap sleeve",
                 "Price": 0,
-                "image":"UTC75.png"
-            },    
+                "image": "UTC75.png"
+            },
             {
                 "Type": "Sleeveless with thick shoulder strap",
                 "Price": 0,
-                "image":"UTC77.png"
-            },    
+                "image": "UTC77.png"
+            },
             {
                 "Type": "Sleeveless with thin shoulder strap",
                 "Price": 0,
-                "image":"UTC78.png"
-            },    
+                "image": "UTC78.png"
+            },
             {
                 "Type": "Puff sleeve",
                 "Price": 0,
-                "image":"UTC79.png"
-            },
-                        
-            ]
-
+                "image": "UTC79.png"
+            }
+        ],
         "HemLine": [
             {
                 "Type": "Mid-Thigh length Kurta",
                 "Price": 0,
-                "image":"UTC93.png"
-            }, 
-             {
+                "image": "UTC93.png"
+            },
+            {
                 "Type": "Above knee length Kurta",
                 "Price": 0,
-                "image":"UTC94.png"
-            }, 
-             {
+                "image": "UTC94.png"
+            },
+            {
                 "Type": "Knee length",
                 "Price": 0,
-                "image":"UTC95.png"
-            }, 
-             {
+                "image": "UTC95.png"
+            },
+            {
                 "Type": "Below knee length",
                 "Price": 0,
-                "image":"UTC96.png"
-            }, 
-             {
+                "image": "UTC96.png"
+            },
+            {
                 "Type": "Ankle length",
                 "Price": 0,
-                "image":"UTC99.png"
-            }, 
-            ]
+                "image": "UTC99.png"
+            }
+        ]
     }
 ]
