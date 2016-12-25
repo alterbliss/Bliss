@@ -6,30 +6,30 @@
             {
                 "id": 1,
                 "Type": "V-Neck",
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC1.png"
             },
             {
                 "id": 2,
                 "Type": "U-Neck",
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC2.png"
             },
             {
                 "id": 3,
                 "Type": "Square neck",
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC3.png"
             },
             {
                 "id": 1,
                 "Type": "Rectangle neck",
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC4.png"
             },
             {
                 "Type": "Diamond Neck",
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC5.png"
             },
             {
@@ -39,7 +39,7 @@
             },
             {
                 "Type": "Horseshoe neck",
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC12.png"
             },
             {
@@ -50,25 +50,25 @@
             {
                 "Type": "Crew neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC20.png"
             },
             {
                 "Type": "Boat neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC21.png"
             },
             {
                 "Type": "Spaghetti - Square neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC22.png"
             },
             {
                 "Type": "Spaghetti - U neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC23.png"
             },
             {
@@ -110,7 +110,7 @@
             {
                 "Type": "Deep Sweetheart neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC52.png"
             },
             {
@@ -122,13 +122,13 @@
             {
                 "Type": "Halter neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC166.png"
             },
             {
                 "Type": "Round with V-neck",
                 "id": 1,
-                "Price": 350,
+                "Price": 499,
                 "image": "UTC189.png"
             }
         ],
