@@ -107,7 +107,7 @@ app.post("/PlaceOrder", function (req, res) {
 
     emailClient.sendEmail(Order, UserDetails,PriceDetails, function (err, output) {
         if (err) {
-            res.status(500).send("Error placing order")
+            res.status(500).send("Error placing order: "+ err)
         } else {
             res.send("Order Placed")
         }
