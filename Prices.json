@@ -381,7 +381,7 @@
             },
             {
                 "id": 1,
-                "Type": "U-neck",
+                "Type": "U-Neck",
                 "Price": 399,
                 "image": "UTC2.png"
             },
@@ -835,7 +835,7 @@
             },
             {
                 "id": 1,
-                "Type": "U-neck",
+                "Type": "U-Neck",
                 "Price": 499,
                 "image": "UTC2.png"
             },
